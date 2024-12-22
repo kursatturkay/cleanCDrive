@@ -1,1 +1,2 @@
-Cleans unneccesary Files dumps logs etc from C Drive. And Disables Hibernation. 
+- Moves unneccesary Files dumps logs etc from C Drive to Recycle.(dont forget to Empty Trash Manually ) 
+- Disables Hibernation to delete its useless file. 
